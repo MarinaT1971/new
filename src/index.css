@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @import './style.css'; */
+/* body{
+    background-color: gray;
+    color: rgb(25, 23, 26);
+    font-family: 'Montserrat';
+}
+p{
+    color: brown;
+    user-select: none;
+} */
